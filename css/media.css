@@ -1,0 +1,498 @@
+@media screen and (max-width: 1055px) {
+
+	.header__city-wrapper {
+		margin-left: 30px;
+	}
+
+	.header__pagination {
+		margin-right: 30px;
+	}
+
+	.main-content__logo-wrap {
+		margin-left: 30px;
+	}
+
+	.main__menu {
+		margin-right: 30px;
+	}
+
+	.virtual__container {
+		width: 100%;
+		margin-top: 0;
+	}
+
+	.virtual__widget {
+		width: 600px;
+		height: 430px;
+		bottom: 0;
+	}
+
+	.virtual__widget--arm {
+		width: 355px;
+		height: 315px;
+		bottom: 20px;
+	}
+
+	.widget_hotspot--first .widget_hotspot--desc {
+		left: -100px;
+		top: 65px;
+	}
+
+	.flexible__widget--img {
+		width: 100%;
+	}
+
+	.virtual-room__banner {
+			 max-width: 924px;
+		 }
+}
+
+@media screen and (max-width: 950px) {
+
+	.augmented-wrapper {
+		padding-top: 50px;
+	}
+
+	.augmented__picture {
+		left: 270px;
+	}
+
+	.virtual__widget {
+		width: 500px;
+		height: 350px;
+		bottom: 50px;
+	}
+
+	.virtual__widget--arm {
+		width: 255px;
+		height: 215px;
+		bottom: 60px;
+	}
+
+	.live__container {
+		margin-top: 90px;
+		height: 416px;
+	}
+
+	.widget_hotspot--third {
+		left: 300px;
+	}
+
+	.widget_hotspot--second {
+		left: 45%;
+		top: 100px;
+	}
+
+	.widget_hotspot--second .widget_hotspot--desc {
+		left: -280px;
+		top: -35px;
+	}
+
+	.virtual-room__banner {
+		max-width: 830px;
+	}
+
+	.video__shape {
+		pointer-events: all;
+	}
+
+}
+
+@media screen and (max-width: 850px) {
+
+	.augmented__caption {
+		font-size: 2.5em;
+	}
+
+	.augmented-wrapper {
+		padding-bottom: 210px;
+	}
+
+	.augmented__description-wrap {
+		position: absolute;
+		left: 60px;
+		top: 150px;
+	}
+
+	.augmented__cooperation-wrap {
+		position: absolute;
+		right: 30px;
+		top: 165px;
+	}
+
+	.augmented__picture {
+		position: absolute;
+		right: 90px;
+		bottom: 0;
+		left: auto;
+	}
+
+	.navigation__wrapper {
+		width: 100%;
+	}
+
+	.navigation__item {
+		width: 25%;
+	}
+
+	.video-container {
+		height: 450px;
+	}
+
+	.virtual__widget {
+		right: -150px;
+	}
+
+	.live__img {
+		height: 88%;
+	}
+
+	.virtual-room__wrapper {
+		height: 500px;
+	}
+
+	.virtual-room__banner {
+		max-width: 750px;
+	}
+
+	.banner_desc--wrapper {
+		width: 53%;
+		padding-top: 35px;
+	}
+
+	.banner_desc--item-any {
+		font-size: 1.5em;
+	}
+
+}
+
+@media screen and (max-width: 700px) {
+	.augmented__caption {
+		margin-left: 30px;
+	}
+
+	.augmented__cooperation-wrap {
+		display: none;
+	}
+
+	.augmented__description-wrap {
+		left: 30px;
+	}
+
+	.augmented__picture {
+		right: 30px;
+		bottom: 50px;
+		top: auto;
+	}
+
+	.main__menu--list {
+		left: -138px;
+	}
+
+	.video-container {
+		height: 350px;
+	}
+
+	.virtual__desc--wrapper {
+		margin-left: 30px;
+		margin-top: 20px;
+		width: 50%;
+	}
+
+	.virtual__widget {
+		width: 700px;
+		height: 553px;
+		bottom: -100px;
+		right: -440px;
+	}
+
+	.virtual__widget--arm {
+		display: none;
+	}
+
+	.live__container {
+		padding-bottom: 0;
+	}
+
+	.live__desc--wrapper {
+		width: 40%;
+		margin-left: 5%;
+	}
+
+	.live__img {
+		width: 50%;
+		height: 75%;
+	}
+
+	.widget_hotspot--desc {
+		width: 170px;
+		font-size: 0.8em;
+	}
+
+	.widget_hotspot--first {
+		left: 30px;
+	}
+
+	.widget_hotspot--first .widget_hotspot--desc {
+		left: 68px;
+		top: -10px;
+	}
+
+	.widget_hotspot--second {
+		left: 52%;
+	}
+
+	.widget_hotspot--second .widget_hotspot--desc {
+		left: 0;
+		top: -132px;
+	}
+
+	.widget_hotspot--third {
+		left: 30%;
+		bottom: 86px;
+	}
+
+	.widget_hotspot--third .widget_hotspot--desc {
+		left: 70px;
+	}
+
+	.virtual-room__wrapper {
+		height: 450px;
+	}
+
+	.virtual-room__info {
+		width: 50%;
+		padding-top: 40px;
+	}
+
+	.virtual-room__projects--container {
+		padding-top: 0;
+		width: 80%;
+	}
+
+	.projects_wrapper {
+		width: 355px;
+		padding-top: 20px;
+		display: block;
+		margin: 0 auto;
+	}
+
+	.projects_item {
+		height: 262px;
+		margin-bottom: 20px;
+	}
+
+}
+
+@media screen and (max-width: 600px) {
+	.header {
+		position: relative;
+	}
+
+	.main__shadow {
+		top: -45px;
+	}
+
+	.main-content {
+		padding-top: 10px;
+	}
+
+	.header__pagination--link {
+		display: none;
+	}
+
+	.video-container {
+		height: 300px;
+	}
+
+	.virtual__widget {
+		display: none;
+	}
+
+	.virtual__desc--wrapper {
+		width: 80%;
+	}
+
+	.widget_hotspot--second {
+		top: 160px;
+	}
+
+	.widget_hotspot--third .widget_hotspot--desc {
+		left: -120px;
+		bottom: 68px;
+	}
+
+	.virtual-room__info {
+		width: 70%;
+	}
+
+	.virtual-room__banner {
+		display: none;
+	}
+
+}
+
+@media screen and (max-width: 490px) {
+
+	.header__pagination--button {
+		display: none;
+	}
+
+	.augmented__picture {
+		display: none;
+	}
+
+	.augmented-wrapper {
+		padding-top: 60px;
+	}
+
+	.main__menu {
+		left: 30px;
+		top: 50px;
+		right: auto;
+	}
+
+	.main__menu--list {
+		left: 0;
+	}
+
+	.augmented__description-wrap {
+		top: 170px;
+	}
+
+	.live__container {
+		height: auto;
+	}
+
+	.live__img {
+		width: 100%;
+		height: 250px;
+		background-position: 0 -50px;
+	}
+
+	.live__desc--wrapper {
+		width: 85%;
+		padding-top: 20px;
+		padding-bottom: 20px;
+		margin-left: 30px;
+	}
+
+	.flexible__caption {
+		margin-left: 30px;
+	}
+
+	.flexible__desc {
+		margin-left: 30px;
+	}
+
+	.widget_hotspot--third {
+		right: 30px;
+		left: auto;
+	}
+
+	.widget_hotspot--second {
+		left: 42%;
+	}
+
+	.widget_hotspot--desc {
+		z-index: 20;
+	}
+
+	.virtual-room__info {
+		margin-left: 30px;
+	}
+
+}
+
+@media screen and (max-width: 400px) {
+
+	.augmented__caption {
+		font-size: 2em;
+	}
+
+	.main__menu--list {
+		width: 300px;
+		height: 245px;
+	}
+
+	.menu_list--item {
+		font-size: 0.9em;
+	}
+
+	.augmented__description-wrap {
+		width: 70%;
+	}
+
+	.navigation__container {
+		padding-top: 150px;
+	}
+
+	.navigation__item {
+		width: 50%;
+	}
+
+	.video-container {
+		height: 250px;
+	}
+
+	.flexible__widget--hotspot {
+		display: none;
+	}
+
+	.flexible__widget--img {
+		margin-top: -50px;
+	}
+
+	.flexible__caption {
+		width: 80%;
+	}
+
+	.flexible__desc {
+		width: 80%;
+	}
+
+	.projects_wrapper {
+		width: 50%;
+	}
+
+	.virtual-room__info {
+		width: 80%;
+		margin-left: 30px;
+	}
+
+	.projects_item {
+
+	}
+
+}
+
+@media screen and (max-width: 340px) {
+
+	.augmented__caption {
+		font-size: 1.8em;
+		line-height: 28px;
+	}
+
+	.live__container {
+		margin-top: 50px;
+	}
+
+	.live__desc--wrapper {
+		padding-top: 0;
+		padding-bottom: 40px;
+	}
+
+	.virtual-room__info {
+		width: 80%;
+		margin-left: 30px;
+	}
+
+	.virtual-room__wrapper {
+		height: 480px;
+	}
+
+	.footer__about {
+		width: 80%;
+	}
+
+}
